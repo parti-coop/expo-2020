@@ -43,7 +43,7 @@
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
     "link-preview-js": "^2.0.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react": "16.9.0",
     "react-dom": "16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
